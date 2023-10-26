@@ -1,0 +1,19 @@
+{
+  "name": "bunbox",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "axios": "^1.5.1",
+    "datejs": "^1.0.0-rc3",
+    "lodash": "^4.17.21",
+    "nanoid": "^5.0.2",
+    "uuid": "^9.0.1"
+  }
+}
